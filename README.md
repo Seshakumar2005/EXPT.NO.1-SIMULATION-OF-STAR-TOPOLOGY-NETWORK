@@ -20,16 +20,19 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 
-# IP CONNECTIVITY TABLE
 
 
 
 # NETWORK DIAGRAM
+<img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/044f0f4d-db42-4fb3-842e-ac8bbf82110e" />
+
 
 
 
 
 # OUTPUT
+<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/ce9c7920-a272-44cb-bd08-3a9599d635ba" />
+
 
 
 # RESULT
